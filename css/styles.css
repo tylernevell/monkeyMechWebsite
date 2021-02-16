@@ -1,0 +1,70 @@
+h1 {
+    position: absolute;
+    width: 432px;
+    height: 96px;
+    left: 15%;
+    top: 30%;
+
+    /* display-text-6xl */
+
+    font-family: Space Mono, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 64px;
+    line-height: 150%;
+    /* identical to box height, or 96px */
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+h2 {
+    font-family: Space Mono, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 40px;
+}
+
+hr {
+    width: 80%;
+}
+
+
+.title-card {
+    background-color: #44337A;
+    height: 504px;
+    position: relative;
+    margin-bottom: 100px;
+}
+
+.newsletter {
+    position: absolute;
+    left: 15%;
+    top: 50%;
+}
+
+.mid-container {
+    position: relative;
+}
+
+.para-img-container {
+}
+
+
+.game-descriptions {
+    /*text-align: left;
+    line-height: 2;*/
+}
+
+.description-paragraph {
+    margin-top: 20px;
+    line-height: 2;
+}
+
+.image-container {
+}
+
+
+
