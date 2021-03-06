@@ -1,8 +1,8 @@
 h1 {
-    position: absolute;
+    position: relative;
     width: 432px;
     height: 96px;
-    left: 15%;
+    left: 14%;
     top: 30%;
 
     /* display-text-6xl */
@@ -31,6 +31,11 @@ hr {
     margin: 10% 0 0;
 }
 
+#marketing-copy img {
+    width: 100%;
+    height: 100%;
+}
+
 .title-card {
     background-color: #44337A;
     height: 504px;
@@ -52,19 +57,11 @@ hr {
     margin: 10% 0 8%;
 }
 
-
-.game-descriptions {
-    /*text-align: left;
-    line-height: 2;*/
-}
-
 .description-paragraph {
     margin-top: 20px;
     line-height: 2;
 }
 
-.image-container {
-}
 
 .new-section {
     margin-bottom: 8%;
@@ -72,9 +69,6 @@ hr {
     font-family: 'Space Mono', sans-serif;
 }
 
-#marketing-copy img {
-    width: 100%;
-    height: 100%;
-}
+
 
 
